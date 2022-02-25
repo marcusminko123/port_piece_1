@@ -1,2 +1,4 @@
 # port_piece_1
-First DS portfolio submission
+First Data Science portfolio submission
+
+Analysis of violent crime and urban population
